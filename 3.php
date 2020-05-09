@@ -10,7 +10,7 @@ function pola($a)
             for ($k=1; $k <= $a; $k++) { 
                 echo " * ";
             }
-            echo "</br>";
+            echo "\n";
         }
     }else{
         echo "Bukan Ganjil";

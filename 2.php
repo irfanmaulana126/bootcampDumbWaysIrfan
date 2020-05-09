@@ -7,7 +7,8 @@
         --$arrLength2;
         $arr []=$str[$arrLength2]; 
         echo $str[$arrLength2].' ';
-    }    
+    }
+    echo '\n';    
     print_r($arr);
 
 ?>
